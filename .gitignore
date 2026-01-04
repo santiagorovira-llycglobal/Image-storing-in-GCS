@@ -28,3 +28,9 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Data
+*.csv
+
+# To Ignore
+to_ignore/

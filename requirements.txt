@@ -1,7 +1,7 @@
 functions-framework==3.*
-pandas
-gspread
-google-cloud-storage
 google-cloud-bigquery
+google-cloud-storage
+google-auth
+pandas
 requests
-python-dotenv
+urllib3
